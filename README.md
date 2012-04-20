@@ -6,7 +6,9 @@ AllPlayers API Client for Java and Android.
 ## Tests
 Tests are in Cucumber-JVM and JUnit
 
-   mvn test
+```
+mvn test
+```
 
 or use Eclipse JUnit runner:
 
