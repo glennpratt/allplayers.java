@@ -1,4 +1,4 @@
-package com.allplayers.net.junit;
+package com.allplayers.net;
 
 import static org.junit.Assert.*;
 
